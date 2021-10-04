@@ -1,0 +1,5 @@
+.notfound-bg{
+    background-image: url('https://freefrontend.com/assets/img/html-css-404-page-templates/404-Not-Found-SVG.png');
+    background-size: cover;
+    height: 100vh;
+}
